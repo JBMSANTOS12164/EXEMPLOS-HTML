@@ -1,0 +1,54 @@
+﻿<!---------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------->
+<!DOCTYPE html><html><meta name="viewport" content="width=device-width, initial-scale=1"><head><style>
+/* Red border */
+hr.new1 {
+  border-top: 3px solid #CCC;
+}
+/* Dashed red border */
+hr.new2 {
+  border-top: 5px dashed red;
+}
+/* Dotted red border */
+hr.new3 {
+  border-top: 5px dotted red;
+}
+/* Thick red border */
+hr.new4 {
+  border: 3px solid #0008ff;
+}
+/* Large rounded green border */
+hr.new5 {
+  border: 3px solid #00ff15;
+  border-radius: 5px;
+}
+</style></head><body>
+<!-----------------------------
+<hr class="new1">
+<hr class="new2">
+<hr class="new3">
+<hr class="new4">
+<hr class="new5">
+<!----------------------------------------------------------->
+</body></html>
+<!----------------------------------------------------------->
+<!----------------------------------------------------------->
+
+<hr class="new1">
+<hr class="new2">
+<hr class="new3">
+<hr class="new4">
+<hr class="new5">
+
+
+
+
+
+
+
+
+
+
+
